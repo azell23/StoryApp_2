@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="have_account">Have account ?</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register">REGISTER</string>
+    <string name="password">Password</string>
+    <string name="description">Description</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="don_t_have_account">Don\'t have account ?</string>
+    <string name="camera_x">CAMERA X</string>
+    <string name="gallery">GALLERY</string>
+    <string name="upload">UPLOAD</string>
+</resources>

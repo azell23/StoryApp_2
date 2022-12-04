@@ -1,0 +1,27 @@
+﻿Auth view model test
+1. Ketika login berhasil
+* memastikan data tidak null
+* memastikan actual data dengan expected data sesuai
+2. Ketika register berhasil
+* memastikan data tidak null
+* memastikan actual data dengan expected data sesuai
+Maps View Model Test
+1. Ketika mendapatkan story dengan maps dan return success
+* memastikan data tidak null
+* memastikan actual data dengan expected data sesuai
+2. Ketika mendapatkan marker maps dan return success
+* memastikan data tidak null
+* memastikan actual data dengan expexcted data sesuai
+Upload View Model Test
+1. Ketika upload story dan return success
+* memastikan data tidak null
+* memastikan actual data dengan expected data sesuai
+2. Ketika upload story dengan location dan return success
+* memastikan data tidak null
+* memastikan actual data dengan expected data sesuai
+Main Model Test
+1. Ketika mendapatkan story dan return success
+* memastikan story tidak null
+* memastikan story sama dengan data dummy
+* memastikan jumlah data sama dengan data dummy
+* memastikan id pertama dari story sama dengan data dummy
